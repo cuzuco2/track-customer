@@ -1,2 +1,2 @@
 mountpoints:
-  /: https://docs.google.com/spreadsheets/d/1Pj930Em3i6tK3AAx0U9zNEnl66xzTR9B_xbAt1y2nb8/edit#gid=0
+  /: ./
