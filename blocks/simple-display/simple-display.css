@@ -21,7 +21,7 @@
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 2px 2px 4px rgb(0 0 0 / 30%);
 }
 
 .bottom-section {
@@ -38,7 +38,7 @@
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 2px 2px 4px rgb(0 0 0 / 30%);
 }
 
 .error {
@@ -51,7 +51,7 @@
 }
 
 /* Responsive design */
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .top-content,
   .bottom-content {
     font-size: 1.5rem;
